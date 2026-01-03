@@ -6,7 +6,7 @@ A modern, visual Admin Tool for managing Arcturus Emulator Catalogs.
 
 Stop editing your catalog in slow database tables. **Habbo Catalog Manager** offers a fully visual interface with **Drag & Drop sorting**, live image previews, and cross-tab item moving.
 
-![Screenshot Preview](https://prnt.sc/xypZc884EGSu)
+![Screenshot Preview]([https://prnt.sc/xypZc884EGSu](https://prnt.sc/xypZc884EGSu))
 *(Add a screenshot of your tool here later)*
 
 ## 🚀 Xalo Features
