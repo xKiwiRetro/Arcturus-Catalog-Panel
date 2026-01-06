@@ -190,4 +190,43 @@ $lang['tr'] = [
     'error_not_found' => "Sayfa bulunamadı!",
     'error_db' => "Veritabanı Hatası: "
 ];
+
+
+// --- ITALIAN (ITA) ---
+$lang['it'] = [
+    'title' => 'Catalogo Habbo Platinum',
+    'tab_edit' => 'MODIFICA TAB',
+    'btn_sort' => 'ORDINA / MUOVI',
+    'btn_done' => 'FATTO',
+    'btn_new_sub' => '+ Nuova Sotto Pagina',
+    'search' => '🔍 Cerca...',
+    'loading' => 'In caricamento...',
+    'empty_folder' => 'Questa cartella è vuota.',
+    'create_first' => '+ Crea prima pagina',
+    'edit_page' => 'Modifica pagina',
+    'items' => 'Items',
+    'lbl_caption' => 'Nome (Caption)',
+    'lbl_order' => 'Numero ordine',
+    'lbl_parent' => 'ID parente',
+    'ph_parent' => 'Inserisci ID per spostare',
+    'lbl_icon' => 'ID Icona',
+    'lbl_layout' => 'Stile struttura',
+    'lbl_layout_hint' => '(Tipo o Seleziona)',
+    'lbl_min_rank' => 'Rank Minimo',
+    'lbl_headline' => 'Immagine di intestazione',
+    'link_folder' => 'Cartella',
+    'lbl_teaser' => 'Immagine Teaser',
+    'lbl_text1' => 'Testo 1',
+    'lbl_text2' => 'Testo 2',
+    'lbl_details' => 'Dettagli',
+    'lbl_enabled' => 'Abilitato',
+    'lbl_visible' => 'Visibile',
+    'btn_save' => '💾 SALVA',
+    'btn_saved' => 'SALVATO!',
+    'link_delete' => 'CANCELLA',
+    'js_move_confirm' => "Vuoi spostare queata categoria in: ",
+    'js_delete_confirm' => "CANCELLI REALMENTE?",
+    'error_not_found' => "Pagina non trovata!",
+    'error_db' => "Errore database: "
+];
 ?>
